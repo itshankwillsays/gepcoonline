@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <titl>GEPCO Online Bill Check: Your Ultimate Guide to Easy Bill Management</title>
 Managing electricity bills can often feel overwhelming, but with the GEPCO Online Bill Check service, you can simplify this task significantly. The Gujranwala Electric Power Company (GEPCO) provides a user-friendly platform that allows consumers to check their electricity bills online with ease. This article will guide you through the process of checking your GEPCO bill, making payments, and understanding your bill components.
 How to Check Your GEPCO Online Bill
